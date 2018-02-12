@@ -2,8 +2,8 @@
 Regression Analysis on GDPs of countries using Python 
 
 # Team
-Aishwarya Gunde
-Michael Albuqerque
-Maruthi Ayyappan
-Beethoven Plaisir
-Ivan Mera
+* Aishwarya Gunde (aishwarya.gunde@rutgers.edu)
+* Michael Albuqerque (ma1333@rutgers.edu)
+* Maruthi Ayyappan
+* Beethoven Plaisir
+* Ivan Mera
